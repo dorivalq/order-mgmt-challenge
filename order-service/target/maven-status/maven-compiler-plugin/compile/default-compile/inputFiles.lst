@@ -1,0 +1,11 @@
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\config\KafkaConfig.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\controller\OrderController.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\domain\model\dto\OrderCreatedEvent.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\domain\model\dto\OrderRequest.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\domain\model\entity\Order.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\domain\model\entity\OrderStatus.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\domain\repository\OrderRepository.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\kafka\OrderConsumer.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\kafka\OrderProducer.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\OrderServiceApplication.java
+C:\dev\2025\desafio-agibank\order-service\src\main\java\com\agibank\order\service\OrderService.java

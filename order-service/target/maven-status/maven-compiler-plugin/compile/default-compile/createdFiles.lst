@@ -1,0 +1,11 @@
+com\agibank\order\domain\model\dto\OrderRequest.class
+com\agibank\order\domain\model\entity\Order.class
+com\agibank\order\kafka\OrderProducer.class
+com\agibank\order\config\KafkaConfig.class
+com\agibank\order\OrderServiceApplication.class
+com\agibank\order\domain\model\entity\OrderStatus.class
+com\agibank\order\service\OrderService.class
+com\agibank\order\domain\model\dto\OrderCreatedEvent.class
+com\agibank\order\controller\OrderController.class
+com\agibank\order\domain\repository\OrderRepository.class
+com\agibank\order\kafka\OrderConsumer.class
