@@ -1,6 +1,6 @@
 package com.agibank.payment.domain.repository;
 
-import com.agibank.payment.domain.entity.Payment;
+import com.agibank.payment.domain.model.entity.Payment;
 
 import java.util.Optional;
 

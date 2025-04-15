@@ -1,6 +1,6 @@
 package com.agibank.payment.config;
 
-import com.agibank.payment.domain.dto.PaymentEvent;
+import com.agibank.payment.domain.model.dto.PaymentEvent;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;

@@ -1,4 +1,4 @@
-package com.agibank.payment.domain.dto;
+package com.agibank.payment.domain.model.dto;
 
 import com.agibank.payment.domain.enums.PaymentStatus;
 import lombok.AllArgsConstructor;

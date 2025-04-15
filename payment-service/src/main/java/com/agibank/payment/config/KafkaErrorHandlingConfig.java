@@ -1,6 +1,6 @@
 package com.agibank.payment.config;
 
-import com.agibank.payment.domain.dto.PaymentEvent;
+import com.agibank.payment.domain.model.dto.PaymentEvent;
 import com.agibank.payment.domain.exception.PaymentException;
 import org.apache.kafka.common.TopicPartition;
 import org.springframework.context.annotation.Bean;

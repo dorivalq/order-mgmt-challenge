@@ -1,4 +1,4 @@
-package com.agibank.payment.domain.entity;
+package com.agibank.payment.domain.model.entity;
 
 import com.agibank.payment.domain.enums.PaymentStatus;
 import jakarta.persistence.*;

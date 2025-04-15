@@ -1,6 +1,6 @@
 package com.agibank.payment.controller;
 
-import com.agibank.payment.domain.dto.DepositRequest;
+import com.agibank.payment.domain.model.dto.DepositRequest;
 import com.agibank.payment.service.PaymentService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;

@@ -4,7 +4,7 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 @Data
-public class OrderEvent {
+public class OrderCreatedEvent {
     private Long id;
     private Long customerId;
     private BigDecimal totalAmount;

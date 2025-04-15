@@ -1,6 +1,6 @@
 package com.agibank.payment.kafka;
 
-import com.agibank.payment.domain.dto.PaymentEvent;
+import com.agibank.payment.domain.model.dto.PaymentEvent;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;
