@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 @Data
 public class OrderRequest {
     @NotEmpty(message = "Customer name is required")
-    private String customerName;
+    private Long customerId;
     
     @NotNull(message = "Total amount is required")
     @Positive(message = "Total amount must be positive")

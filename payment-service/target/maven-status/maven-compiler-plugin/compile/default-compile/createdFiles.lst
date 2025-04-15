@@ -1,8 +1,0 @@
-com\agibank\payment\dto\PaymentEvent.class
-com\agibank\payment\entity\Payment.class
-com\agibank\payment\repository\PaymentRepository.class
-com\agibank\payment\config\KafkaConfig.class
-com\agibank\payment\entity\PaymentStatus.class
-com\agibank\payment\service\PaymentService.class
-com\agibank\payment\PaymentServiceApplication.class
-com\agibank\payment\dto\OrderDTO.class
