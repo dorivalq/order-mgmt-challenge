@@ -1,5 +1,6 @@
 package com.agibank.payment.kafka;
 
+import com.agibank.payment.domain.dto.OrderCreatedEvent;
 import com.agibank.payment.domain.model.dto.PaymentEvent;
 import com.agibank.payment.domain.enums.PaymentStatus;
 import com.agibank.payment.domain.exception.PaymentException;
